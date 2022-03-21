@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Asana Service Request">5210cff12f120110d3d451072799b6f4</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 16:33:45</sys_created_on>
+        <sys_id>5540c3352f120110d3d451072799b680</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Asana Service Request</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_5540c3352f120110d3d451072799b680</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 16:33:45</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5637bad6db3c1388cbf6d5b0cf96196a</instance_id>
+        <instance_name>dev52817</instance_name>
+        <name>sc_cat_item_catalog_5540c3352f120110d3d451072799b680</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Asana Service Request">5210cff12f120110d3d451072799b6f4</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-18 16:33:45</sys_created_on><sys_id>5540c3352f120110d3d451072799b680</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Asana Service Request</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_catalog_5540c3352f120110d3d451072799b680</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-18 16:33:45</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>563382831</payload_hash>
+        <record_name>Service Catalog.Asana Service Request</record_name>
+        <reverted_from/>
+        <source>160f24d12f920110d3d451072799b6d7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 16:33:45</sys_created_on>
+        <sys_id>e940c3352f120110d3d451072799b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f9de0bd6c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 16:33:45</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>6140c3351312011046fe175ad320f483</update_guid>
+        <update_guid_history>6140c3351312011046fe175ad320f483:563382831</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Asana Service Request">74a00b352f120110d3d451072799b65d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-18 16:35:21</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>938b3470553a413b9fb414a085537441</sys_id>
+        <sys_metadata>5540c3352f120110d3d451072799b680</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Asana Service Request</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Asana Service Request">5210cff12f120110d3d451072799b6f4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_5540c3352f120110d3d451072799b680</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_5540c3352f120110d3d451072799b680">e940c3352f120110d3d451072799b683</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-18 16:35:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
